@@ -3,6 +3,6 @@
 Currently finshing a year on boot.dev doing extra content 
 
 future plan 
-- redoing music box in go,
+- redoing music box in go - going to include some logging as well 
 - doing html and css for the music box
 - Getting pygames working on the pokemon_battle_sim 
