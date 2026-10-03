@@ -7,7 +7,7 @@ Currently learning to code. I have done so for the past year I currently do not 
  Monday - Friday 9 - 4 
  
 # Current Coding
-Currently finishing a year on boot.dev doing extra content 
+Learning on boot.dev, freecodeCamp and perfecting my project a bit at a time while learning
 
 # Skills 
 - Python
