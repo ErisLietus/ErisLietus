@@ -10,6 +10,7 @@ Currently learning to code. I have done so for the past year I currently do not 
 Learning on boot.dev, freecodeCamp and perfecting my project a bit at a time while learning
 
 # Skills 
+- HTML
 - Python
 - Go
 - Typescript/Javascript
@@ -17,8 +18,7 @@ Learning on boot.dev, freecodeCamp and perfecting my project a bit at a time whi
 
 # Future plan 
 - Learn Rust with Rustlings and The Rust Programming language online book
-- Learn HTML & CSS with Freecodecamp
-- Redoing music box in go - going to include some logging as well 
+- Learn CSS with Freecodecamp
 - Doing html and CSS for the music box
 - Getting Pygames working on the pokemon_battle_sim.
 
